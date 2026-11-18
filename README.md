@@ -1,0 +1,2 @@
+# Smart-Adaptive-Headlight-and-Visibility-Control-System
+Smart Automatic Headlight and Visibility Control System automatically adjusts vehicle headlights using ToF-based vehicle detection and TTC estimation. It switches between high and low beams according to approaching traffic, while LDR detects night conditions and DHT11 estimates fog. It also provides manual and automatic modes for safer driving. 
